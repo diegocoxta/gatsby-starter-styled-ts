@@ -50,7 +50,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "start": "gatsby develop",
+    "develop": "gatsby develop",
     "prettier": "prettier --write .",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
