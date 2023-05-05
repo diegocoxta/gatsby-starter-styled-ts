@@ -21,7 +21,7 @@ $ npx gatsby new your-project-name git@github.com:diegocoxta/gatsby-starter-styl
 ```
 
 ## :gear: Scripts
-- It provides several Gatsby CLI aliases, including `build`, `start`, `serve`, and `clean`, which can be executed using `yarn <command>`.
+- It provides several Gatsby CLI aliases, including `build`, `develop`, `serve`, and `clean`, which can be executed using `yarn <command>`.
 - Use `yarn prettier`, `yarn eslint`, and `yarn stylelint` to format your source code according to the respective configuration files.
 - Use `yarn test` to run the test suite with Jest.
 - Use `yarn prepare` to set up Husky git hooks.
