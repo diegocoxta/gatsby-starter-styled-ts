@@ -14,13 +14,15 @@ This starter was based on the source code of my [personal blog/website](https://
 This project requires [Node.js 18](https://nodejs.org/en/) or higher and [yarn](https://yarnpkg.com/) as package manager.
 
 ## :dart: Using this starter
- Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the `gatsby-starter-styled-ts`.
+
+Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the `gatsby-starter-styled-ts`.
 
 ```shell
 $ npx gatsby new your-project-name git@github.com:diegocoxta/gatsby-starter-styled-ts.git
 ```
 
 ## :gear: Scripts
+
 - It provides several Gatsby CLI aliases, including `build`, `develop`, `serve`, and `clean`, which can be executed using `yarn <command>`.
 - Use `yarn prettier`, `yarn eslint`, and `yarn stylelint` to format your source code according to the respective configuration files.
 - Use `yarn test` to run the test suite with Jest.
